@@ -1,0 +1,446 @@
+id,name
+1,Crêpe
+2,Crêpes sucrées
+3,Végétarien
+4,Dessert
+5,Plat principal
+6,Sans gluten
+7,Viande
+8,Viande rôtie
+9,Canard à l'orange
+10,Rapide
+11,Abats
+12,Foie
+13,Viande en sauce
+14,Poulet en sauce
+15,Plat unique
+16,Plats indiens
+17,Cuisses de volaille
+18,A la vapeur
+19,Fondue à la viande
+20,Aioli
+21,Pommes de terre
+22,Aligot
+23,Purée
+24,Andouilette
+25,Recettes pour deux
+26,"Calamar, poulpe"
+27,Fruits de mer
+28,Autres pâtes
+29,"Pâtes, riz, semoule"
+30,Plat de riz
+31,Plats au fromage
+32,Tartiflette
+33,Cuisine rapide
+34,Plat végétarien
+35,Aubergine
+36,Plat végétarien vegetarian
+37,Purée de pommes de terre
+38,Exploration
+39,Saucisses
+40,Légumes farcis
+41,Paradis d'Italie
+42,Gastronome économe
+43,Ratatouille
+44,"Feuilleté, brick"
+45,Aumônière
+46,Recette de poisson
+47,Boulettes de viande
+48,Baba au rhum
+49,Recettes portugaises
+50,Pâques
+51,Bagel
+52,Sandwich
+53,Pique nique
+54,Autres confiseries
+55,Blanc de poulet
+56,Poisson
+57,Poisson en papillote
+58,Crevettes
+59,Risotto
+60,Jardinière ou poêlée de légumes
+61,Pièce de boeuf
+62,Oeufs cuits
+63,Entrée chaude
+64,Beignet et friture
+65,Beignets sucrés
+66,Petits gâteaux
+67,Autres biscuits et petits gâteaux
+68,Gâteau
+69,Biscuits de Noël
+70,Volaille de noël
+71,Second service
+72,Sauté de volaille
+73,Je débute
+74,Plats chinois
+75,Escalopes
+76,Curry de poulet
+77,Blanquette
+78,Plein la vue !
+79,Poisson en sauce
+80,Moules
+81,Marrons
+82,Mardi gras
+83,Huîtres
+84,Plats indonésiens
+85,Halloween
+86,Recettes grecques
+87,"Daube, bourguignon"
+88,Plats mijotés
+89,Fête des Mères
+90,Cuisine chinoise
+91,Plats coréens
+92,Spaghetti
+93,Poulet mariné
+94,Tourte au poulet
+95,Mini tourte
+96,Chocolats
+97,Quenelles
+98,Boudin
+99,Tous à poêle !
+100,Bouillabaisse
+101,Soupe de poisson
+102,Soupe
+103,Raviolis
+104,Bouchées et raviolis
+105,Ravioles
+106,Kefta
+107,Raclette
+108,Recettes du Ramadan
+109,Automne
+110,Merveilles de l'Oasis
+111,Cuisine russe
+112,Gibier
+113,œuf poché
+114,œufs
+115,Poisson au four
+116,Brick
+117,Entrée
+118,Confiserie
+119,Autres brioches
+120,Brioche
+121,Saint-jacques
+122,Saint Valentin / Coup de foudre
+123,Filet mignon
+124,Magret de canard
+125,Plancha !
+126,Plats thaï
+127,Plats japonais
+128,Délices des Iles
+129,On se fait un bon barbecue ?
+130,Gâteau au chocolat
+131,Brownie
+132,Tarte salée
+133,Bruschetta
+134,Amuse-gueule
+135,Pâtes en sauce
+136,Bûche de Noël
+137,Autres bûches
+138,Bûche au chocolat
+139,Raffinements d'Asie
+140,Plats vietnamiens
+141,Galette de légumes
+142,"Galette de sarrasin, crêpe salée"
+143,Hamburger végétarien
+144,Plats mexicains
+145,Tripes
+146,Viande à l'indienne
+147,Gratin de légumes
+148,Poisson pané
+149,Café
+150,Boisson
+151,Boissons chaudes
+152,Cailles
+153,Déjeuner au bureau
+154,Noël / Rois mages
+155,Noël / Peau d'Ane
+156,100% chocolat
+157,Recette cake
+158,Cake salé apéritif
+159,Recettes bretonnes
+160,Apéritif dînatoire
+161,Apéritif dînatoire vegetarien
+162,Apéritif dînatoire sans gluten
+163,Cake aux fruits confits
+164,Cakes
+165,Printemps
+166,Poulet rôti
+167,Recette minceur
+168,Cake salé
+169,Entrée froide
+170,Cuisine espagnole
+171,Camembert
+172,Rougail
+173,Tagliatelle
+174,Recettes du chasseur
+175,Cannelés
+176,Recettes au robot
+177,Carbonade
+178,Spécial Belgique
+179,Rognons
+180,Recettes du Nord
+181,Curry de légumes
+182,Carpaccio
+183,Saumon en sauce
+184,Gâteau aux carottes
+185,Carrot cake
+186,Cassoulet
+187,Ceviche
+188,Poisson cru
+189,Crustacés
+190,Sud-Ouest
+191,Pizza
+192,Bouchée ou amuse-bouche
+193,"Chaussons, empanadas"
+194,Feuilleté
+195,Viennoiseries
+196,Chausson aux pommes
+197,Cheesecake
+198,Kebab
+199,Chili con carne et sin carne
+200,Crème Chantilly
+201,Crème
+202,Etudiant fauché
+203,Auvergne
+204,Choucroute
+205,Côtelettes
+206,Churros
+207,Lapin en sauce
+208,Flan salé
+209,Poisson facile
+210,Gigot d'agneau
+211,Confit de canard
+212,Cookie
+213,Coq au vin
+214,Coquillages
+215,Cordon bleu
+216,Pommes au four
+217,Nems
+218,Recette de courgette
+219,Couscous
+220,Pot-au-feu
+221,Crème caramel
+222,Pâte à crêpes
+223,Rôti de porc
+224,Recettes de Suisse
+225,Saveurs des Indes
+226,Croissant
+227,Croque-monsieur
+228,Macaronis
+229,100% pomme de terre
+230,Crumble salé
+231,Cuisses de grenouilles
+232,Flemme
+233,Cupcake
+234,Dal
+235,Citadin stressé
+236,Les classiques
+237,Poisson en croûte
+238,Salade avocat
+239,Flammekueche
+240,Tex-Mex
+241,Noël qui en jette
+242,Dip et tartinade
+243,Filets de poisson
+244,Endives au jambon
+245,Paupiette
+246,Entremets
+247,Pain perdu
+248,Falafel
+249,Cuisine libanaise
+250,Piperade
+251,Apéro léger
+252,Recettes provençales
+253,Tartare
+254,Rôti de bœuf
+255,Pintade en sauce
+256,Micro-ondes
+257,Potatoes
+258,Hiver
+259,Sucré-salé
+260,Financiers
+261,Recettes anglaises
+262,Fish and chips
+263,Tarte aux poireaux
+264,Flamiche
+265,Flan
+266,Polenta
+267,"Terrine, pâté"
+268,Foie gras
+269,Entrée de Noël
+270,Fondant au chocolat
+271,Fondue au fromage
+272,Normandie
+273,Noël végétarien
+274,Langue
+275,Recettes de viande légères
+276,Omelette
+277,Plats africains
+278,Recettes d'Afrique
+279,Galette des rois
+280,Galette frangipane
+281,"Gaspacho, soupe froide"
+282,Dessert au chocolat
+283,Cake au citron
+284,Chandeleur
+285,Biscuit de Savoie
+286,Gâteau roulé
+287,Gaufre
+288,Gougères
+289,Goulash
+290,Gratin !
+291,Gratin de pommes de terre
+292,Autre gratin de pommes de terre
+293,Gratin de pâtes
+294,Gratin dauphinois
+295,Gratin de courgettes
+296,Recette 100% pâtes
+297,Hachis parmentier
+298,Hamburger
+299,Hot-dog
+300,Taboulé
+301,Vegan
+302,Accompagnement
+303,Hoummous
+304,Recettes bonnes pour la planète
+305,Sans four
+306,Délices d'Alsace
+307,Saucisse lentilles
+308,Joue de porc
+309,Lasagne
+310,Pâte à choux
+311,Choux
+312,Tarte à la tomate
+313,Palets et langues de chat
+314,Lapin
+315,Cuisine corse
+316,Recettes françaises
+317,Tajine
+318,Lasagne végétarienne
+319,Cocktail apéritif
+320,Cocktail vodka
+321,Cocktail whisky
+322,Sauté de veau
+323,Joue de boeuf
+324,Recette 100% fromage
+325,Macarons
+326,Madeleine
+327,Sauté de porc
+328,Pommes sautées
+329,Martini
+330,Milk-shake
+331,Boissons froides
+332,Mille-feuille
+333,Gâteau à la banane
+334,Pancake
+335,Pavlova
+336,Gâteau glacé
+337,Tiramisu
+338,Gâteaux aux fruits
+339,Moussaka
+340,Sans eux les oeufs !
+341,Mousse au chocolat
+342,Mousse
+343,Crumble
+344,Autres crumbles
+345,Muffin
+346,Mugcake
+347,Navarin d'agneau
+348,œuf cocotte
+349,œufs brouillés
+350,Osso bucco
+351,Paella
+352,Pita
+353,Pain
+354,Autres gâteaux
+355,Panna cotta
+356,Rôti de veau
+357,Saint Valentin / Roméo et Juliette
+358,Poulet basquaise
+359,Pastilla
+360,Pâte à tarte salée
+361,Sauce sucrée
+362,Pâte à tartiner
+363,Salade de pâtes
+364,Recettes vegan
+365,Wok
+366,Coin Enfant
+367,Petit salé
+368,Pissaladière
+369,Plateau télé
+370,Recettes bio
+371,Pomme au four
+372,Saucisson
+373,Petit déjeuner
+374,Porridge
+375,Recette américaine
+376,Poutine
+377,Desserts d'Halloween
+378,Purée de courge
+379,Quiche
+380,Quiche aux lardons
+381,Quiche aux courgettes
+382,Quiche au saumon
+383,Quiche au thon
+384,Quiche sans pâte
+385,Quiche aux poireaux
+386,Quiche au jambon
+387,Quiche au fromage
+388,Quiche lorraine
+389,Tarte aux légumes
+390,Noël vegan
+391,Ris de veau
+392,Riz
+393,Rochers
+394,Sablés
+395,Salade de pomme de terre
+396,Salade de tomates
+397,Salade de lentilles
+398,Salade Cesar
+399,Recettes de salades
+400,Salade aux endives
+401,Salade de carotte
+402,Salade de fruits
+403,Salade au saumon
+404,Salade originale
+405,Eté
+406,Salade grecque
+407,Travers de porc
+408,Salade de riz
+409,Salade au poulet
+410,Sashimi
+411,Gravelax
+412,Purée de patate douce
+413,Soufflé
+414,A la soupe !
+415,Speculoos
+416,Sushis
+417,Noël / Tribu
+418,Tarte au thon
+419,Tarte au fromage
+420,Tarte aux poires
+421,Tarte
+422,Tarte au citron
+423,Tarte aux champignons
+424,Tian
+425,Tarte aux pommes
+426,Tarte à la banane
+427,Tarte tatin salée
+428,Tarte Tatin
+429,Tarte noix de coco
+430,Tarte aux fruits rouges
+431,Recettes au four
+432,Tartine
+433,Tête de veau
+434,Amuse-bouche au saumon
+435,Apéritif de Noël
+436,Légumes
+437,Pain d'épices
+438,Tourte aux champignons
+439,Tourte
+440,Tourte au saumon
+441,Tourte aux poireaux
+442,Tourte au thon
+443,Cervelle
+444,Muesli
+445,Pains anglais
