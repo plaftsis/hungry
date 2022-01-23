@@ -5,7 +5,7 @@ class RecipeFinder
 
   # Fetch all recipes that can be executed with the given ingredients
   # Cache the ids
-  # Returns Array of Recipe ids
+  # Return Array of Recipe ids
   def recipe_ids
     key = @ingredients.sort.join("&").sub(" ","_")
     Rails.cache.fetch(key, expires_in: 12.hours) do
@@ -19,17 +19,18 @@ class RecipeFinder
     RecipesIngredients.select(:recipe_id).distinct.where.not(ingredient_id: ingredient_ids)
   end
 
-  # Free text search to identify which ingredients match input
+  # Free text search to identify which ingredients match user input
   # Merge result with 100 most common ingredients to get better results
   # Return Array of Ingredient ids
   def ingredient_ids
     ids = []
     @ingredients.each { |ingredient| ids = ids | Ingredient.search_name(ingredient).ids }
+    return ids if ids.empty?
     popular_ingredient_ids = Rails.cache.fetch("100_most_common_ingredients", expires_in: 48.hours) do
       RecipesIngredients
           .select(:ingredient_id)
           .group(:ingredient_id)
-          .order('count_ingredient_id desc')
+          .order(count_ingredient_id: :desc)
           .limit(100)
           .count(:ingredient_id)
           .keys
