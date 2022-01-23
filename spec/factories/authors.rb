@@ -1,12 +1,6 @@
 FactoryBot.define do
   factory :author do
     name { Faker::Internet.username }
-
-    trait :with_recipes do
-      after(:create) do |author|
-        author.recipes << create(:recipe, author: author)
-      end
-    end
   end
 end
 
