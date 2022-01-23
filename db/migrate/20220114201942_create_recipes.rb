@@ -9,9 +9,9 @@ class CreateRecipes < ActiveRecord::Migration[6.1]
       t.integer :total_time_in_minutes
       t.string :image
       t.integer :number_of_comments
-      t.references :author, null: false, foreign_key: true, index: true
-      t.references :difficulty, null: false, foreign_key: true, index: true
-      t.references :budget, null: false, foreign_key: true, index: true
+      t.references :author, null: false, foreign_key: true
+      t.references :difficulty, null: false, foreign_key: true
+      t.references :budget, null: false, foreign_key: true
 
       t.timestamps
     end
